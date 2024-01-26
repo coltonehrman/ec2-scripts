@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-fuser -k 443/tcp
+fuser -k 80/tcp
